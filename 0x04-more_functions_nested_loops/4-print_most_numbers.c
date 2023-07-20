@@ -2,6 +2,7 @@
 
 /**
  * print_most_numbers - function checks for checks for a digit (0 through 9)
+ *
  * Return: Always 0.
  */
 void print_most_numbers(void)
@@ -12,9 +13,9 @@ void print_most_numbers(void)
 	{
 		if (c != 50)
 		{
-			 if (c != 52)
+		 if (c != 52)
 			 {
-				 _putchar(c);
+			 _putchar(c);
 			 }
 		}
 	}
